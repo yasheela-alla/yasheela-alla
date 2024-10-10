@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Cybersecurity-TryHackMe-informational?style=flat&logo=hackaday&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/DevOps-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/DevOps-SonarQube-informational?style=flat&logo=sonarqube&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Linux-Bash-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
 </p>
 
