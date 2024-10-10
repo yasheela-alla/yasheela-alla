@@ -79,6 +79,10 @@
 
 ---
 
+### Holopin Profile 
+
+[![An image of @yasheelaalla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yasheelaalla)](https://holopin.io/@yasheelaalla)
+
 ### Recent Activity
 - 🛠️ Working on <b>Cyber Shield: Defending the Network</b>
 - ✍️ Blogging at [Hashnode](https://hashnode.com/@yasheela) about AWS and DevOps
