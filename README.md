@@ -5,7 +5,7 @@
 
 <h1 align="center">Yasheela Alla</h1>
 <p align="center">
-  <b>Networking Enthusiast | Cybersecurity | AWS | DevOps</b>
+  <b> Cloud | DevOps | Networking | Cybersecurity </b>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yasheela-alla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Count" />
