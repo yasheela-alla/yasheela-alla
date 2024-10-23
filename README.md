@@ -77,9 +77,8 @@
   <img src="https://raw.githubusercontent.com/yasheela-alla/yasheela-alla/main/github-contribution-grid-snake.svg" alt="Contribution Graph" />
 </p>
 
-## GSSOC(24) Badges 🪶
+## Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="" width="100px" height="100px" />
   <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/1.png" width="100px" height="100px" />
   <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/2.png" width="100px" height="100px" />
   <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/3.png" width="100px" height="100px" />
