@@ -85,6 +85,7 @@
   <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/4.png" width="100px" height="100px" />
   <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/5.png" width="100px" height="100px" />
   <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/6.png" width="100px" height="100px" />
+  <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/7.png" width="100px" height="100px" />
 </div>
 
 ---
