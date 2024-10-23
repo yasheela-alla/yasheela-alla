@@ -79,8 +79,13 @@
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+<img src="" width="100px" height="100px" />
   <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/1.png" width="100px" height="100px" />
+  <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/2.png" width="100px" height="100px" />
+  <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/3.png" width="100px" height="100px" />
+  <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/4.png" width="100px" height="100px" />
+  <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/5.png" width="100px" height="100px" />
+  <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/6.png" width="100px" height="100px" />
 </div>
 
 ---
