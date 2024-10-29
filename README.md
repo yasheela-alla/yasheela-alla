@@ -1,8 +1,4 @@
 <!-- Header Section -->
-<p align="center">
-  <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/pfp.jpg" width="200" height="200" alt="Profile Picture"/>
-</p>
-
 <h1 align="center">Yasheela Alla</h1>
 <p align="center">
   <b> Cloud | DevOps | Networking | Cybersecurity </b>
