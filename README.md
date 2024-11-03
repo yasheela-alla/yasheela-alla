@@ -45,13 +45,12 @@
 ---
 
 ### 🛠️ Technologies & Tools I Use
-**Programming** : Python, C++ (with knowledge of data structures and algorithms)
-**Cloud Platforms** : AWS, Microsoft Azure
-**Automation** : Bash scripting
-**Development** Tools : Visual Studio Code
-**DevOps Tools** : Docker, Kubernetes, Jenkins, ArgoCD, SonarQube, Terraform (Beginner)
-**Version Control** : Git, GitHub
-**Network & Security Tools** : Cisco Packet Tracer, Wireshark, Oracle VirtualBox, Snort
+**Programming Languages**: Python, C++
+**Cloud Platforms and Tools**: AWS, Microsoft Azure, NGINX
+**Containerization and Orchestration**: Docker, Kubernetes
+**DevOps Tools**: Jenkins, Terraform (Beginner)
+**Scripting and Development Tools**: Bash Scripting, Visual Studio Code, GitHub
+**Other’s**: Linux, Cisco Packet Tracer, Wireshark, Oracle VirtualBox, Snort
 
 ---
 
