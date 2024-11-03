@@ -81,10 +81,9 @@
 [![An image of @yasheelaalla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yasheelaalla)](https://holopin.io/@yasheelaalla)
 
 ### Recent Activity
-- 🛠️ Working open-source Contributions under GSSoC
+- 🛠️ Working on open-source projects under GSSoC'24 ext.
 - ✍️ Blogging at [Hashnode](https://hashnode.com/@yasheela) about AWS and DevOps
-- 📚 Learning DevOps, DSA, and AWS
-
+- 📚  Currently Learning DevOps, web3 and Blockchain.
 ---
 
 <!-- Footer Section -->
