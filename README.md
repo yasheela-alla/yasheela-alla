@@ -92,3 +92,6 @@
 <p align="center">
   <i>"Consistent practice leads to progress. Keep going!"</i>
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasheela-alla&show_icons=true&theme=radical)
+
