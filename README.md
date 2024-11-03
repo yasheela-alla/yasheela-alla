@@ -34,20 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasheela-alla&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yasheela-alla&theme=redical" alt="GitHub Activity Graph" />
-</p>
-
 ---
-
-<!-- Metrics & Contributions -->
-<details>
-  <summary>📊 Github Metrics</summary>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasheela-alla&theme=dracula" alt="GitHub Profile Summary" />
-  </p>
-</details>
 
 <!-- Contact Information -->
 <p align="center">
@@ -66,12 +53,7 @@
 
 ---
 
-<!-- Contribution Graph -->
-### GitHub Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yasheela-alla/yasheela-alla/main/github-contribution-grid-snake.svg" alt="Contribution Graph" />
-</p>
 
 ## Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
