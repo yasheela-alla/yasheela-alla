@@ -45,11 +45,13 @@
 ---
 
 ### 🛠️ Technologies & Tools I Use
-- **Programming Languages**: Python, Bash, HTML, CSS, JavaScript
-- **Cloud**: AWS, Azure
-- **DevOps**: Jenkins, Docker, Kubernetes
-- **Networking**: Cisco Packet Tracer, Wireshark
-- **Version Control**: Git, GitHub
+**Programming** : Python, C++ (with knowledge of data structures and algorithms)
+**Cloud Platforms** : AWS, Microsoft Azure
+**Automation** : Bash scripting
+**Development** Tools : Visual Studio Code
+**DevOps Tools** : Docker, Kubernetes, Jenkins, ArgoCD, SonarQube, Terraform (Beginner)
+**Version Control** : Git, GitHub
+**Network & Security Tools** : Cisco Packet Tracer, Wireshark, Oracle VirtualBox, Snort
 
 ---
 
