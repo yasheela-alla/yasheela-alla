@@ -44,17 +44,6 @@
 
 ---
 
-### 🛠️ Technologies & Tools I Use
-
-- **Programming Languages**: Python, C++
-- **Cloud Platforms and Tools**: AWS, Microsoft Azure, NGINX
-- **Containerization and Orchestration**: Docker, Kubernetes
-- **DevOps Tools**: Jenkins, Terraform (Beginner)
-- **Scripting and Development Tools**: Bash Scripting, Visual Studio Code, GitHub
-- **Other’s**: Linux, Cisco Packet Tracer, Wireshark, Oracle VirtualBox, Snort
-
----
-
 
 
 ## Badges 🪶
