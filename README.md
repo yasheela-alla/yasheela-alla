@@ -29,12 +29,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasheela-alla&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasheela-alla&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
 
 <!-- Contact Information -->
 <p align="center">
@@ -45,7 +39,6 @@
 ---
 
 
-
 ## Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/1.png" width="100px" height="100px" />
@@ -53,6 +46,9 @@
   <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/8.png" width="100px" height="100px" />
   <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/9.png" width="100px" height="100px" />
   <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/10.png" width="100px" height="100px" />
+
+
+ 
   <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/11.png" width="100px" height="100px" />
    <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/12.jpg" width="100px" height="100px" />
    <img src="https://github.com/yasheela-alla/yasheela-alla/blob/main/13.png" width="100px" height="100px" />
